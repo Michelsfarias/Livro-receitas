@@ -7,4 +7,4 @@ Ola! bem vindos ao meu livro de receitas :wave:
 
 
 - Miojo de Carne;
-- 
+- Strogonoff de Frango;
